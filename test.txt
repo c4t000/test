@@ -1,0 +1,5 @@
+Názov: Solárne prvky pre termické aplikácie
+- Všeobecné súvislosti z oblasti solár-termálnej techniky
+- Základy fyziky - transport tepla
+- Druhy a vlastnosti solárnych panelov
+- Ïalšie technické zariadenia (rozvody, regulaèné prvky, montážne prvky) solárno-termálnych systémov
